@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://varga75.github.io/csb-0b3n1/static/js/main.53502d07.chunk.js",
+    "main.js.map": "https://varga75.github.io/csb-0b3n1/static/js/main.53502d07.chunk.js.map",
+    "runtime-main.js": "https://varga75.github.io/csb-0b3n1/static/js/runtime-main.cdcc03cf.js",
+    "runtime-main.js.map": "https://varga75.github.io/csb-0b3n1/static/js/runtime-main.cdcc03cf.js.map",
+    "static/js/2.b263550f.chunk.js": "https://varga75.github.io/csb-0b3n1/static/js/2.b263550f.chunk.js",
+    "static/js/2.b263550f.chunk.js.map": "https://varga75.github.io/csb-0b3n1/static/js/2.b263550f.chunk.js.map",
+    "index.html": "https://varga75.github.io/csb-0b3n1/index.html",
+    "static/js/2.b263550f.chunk.js.LICENSE.txt": "https://varga75.github.io/csb-0b3n1/static/js/2.b263550f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdcc03cf.js",
+    "static/js/2.b263550f.chunk.js",
+    "static/js/main.53502d07.chunk.js"
+  ]
+}
